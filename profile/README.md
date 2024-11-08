@@ -19,7 +19,7 @@ At byTech Hub, our mission is to create a thriving community where people from a
 
 1. **Explore Our Repositories**: Check out our repositories for ongoing projects.
 2. **Contribute**: Whether you’re a beginner or a seasoned developer, we welcome contributions of all kinds.
-3. **Join Discussions**: Be part of the conversation—share your ideas, provide feedback, and help shape the future of byTech Hub.
+3. **Join [Discussions](https://github.com/orgs/byTech-Hub/discussions)**: Be part of the conversation—share your ideas, provide feedback, and help shape the future of byTech Hub.
 4. **Follow Us**: Stay updated on new projects, events, and opportunities to collaborate.
 
 ### Let's Build the Future, Together! 🌍
